@@ -9,7 +9,7 @@
  * @link        https://github.com/SiavashBamshadnia/Laravel-Source-Encrypter
  */
 
-namespace sbamtr\LaravelSourceEncrypter;
+namespace mawadhy\LaravelSourceEncrypter;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;

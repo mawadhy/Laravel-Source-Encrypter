@@ -1,5 +1,5 @@
 {
-  "name": "sbamtr/laravel-source-encrypter",
+  "name": "mawadhy/laravel-source-encrypter",
   "keywords": [
     "laravel",
     "lumen",
@@ -23,12 +23,12 @@
   "authors": [
     {
       "name": "Siavash Bamshadnia",
-      "email": "sbamtr@gmail.com"
+      "email": "mawadhy@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "sbamtr\\LaravelSourceEncrypter\\": "src"
+      "mawadhy\\LaravelSourceEncrypter\\": "src"
     }
   },
   "config": {
@@ -38,7 +38,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "sbamtr\\LaravelSourceEncrypter\\SourceEncryptServiceProvider"
+        "mawadhy\\LaravelSourceEncrypter\\SourceEncryptServiceProvider"
       ]
     }
   }
